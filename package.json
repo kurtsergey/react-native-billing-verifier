@@ -1,7 +1,7 @@
 {
   "name": "react-native-billing-verifier",
   "version": "0.5.1",
-  "description": "InApps verifier for ReactNative applications",
+  "description": "InAppPurchases verifier for ReactNative applications",
   "repository": {
     "type": "git",
     "url": "https://github.com/kurtsergey/react-native-billing-verifier"
@@ -22,12 +22,6 @@
   "license": "MIT",
   "dependencies": {
     "base-64": "~0.1.0",
-    "iap-receipt-validator": "1.0.6",
-    "jsrsasign": "^10.2.0",
-    "nextstep-plist": "^0.4.1"
-  },
-  "devDependencies": {
-    "babel-eslint": "^7.2.3",
-    "eslint": "^4.3.0"
+    "jsrsasign": "^10.2.0"
   }
 }
